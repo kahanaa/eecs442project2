@@ -1,0 +1,2 @@
+# eecs442project2
+Code and documents available to professionals upon request. This repository contains my submission for Project 2 of University of Michigan's EECS 442 course (Introduction to Computer Vision). In this project, I used a variety of algorithms to extract meaningful information from input images. I implemented Gaussian filtering techniques, a Harris Corner Detector, and Blob Detection algorithms.
